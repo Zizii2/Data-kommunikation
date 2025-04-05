@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/repos/Data-kommunikation/Chat_rum_expr/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\server_build.dir\\src\\server.cpp.obj /FdCMakeFiles\\server_build.dir/ /FS -c C:\\repos\\Data-kommunikation\\Chat_rum_expr\\src\\server.cpp",
+  "file": "C:/repos/Data-kommunikation/Chat_rum_expr/src/server.cpp",
+  "output": "CMakeFiles/server_build.dir/src/server.cpp.obj"
+},
+{
+  "directory": "C:/repos/Data-kommunikation/Chat_rum_expr/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\client_build.dir\\src\\client.cpp.obj /FdCMakeFiles\\client_build.dir/ /FS -c C:\\repos\\Data-kommunikation\\Chat_rum_expr\\src\\client.cpp",
+  "file": "C:/repos/Data-kommunikation/Chat_rum_expr/src/client.cpp",
+  "output": "CMakeFiles/client_build.dir/src/client.cpp.obj"
+}
+]

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20250405-1118-Experimental"
+	Name="LAPTOP-PK2HC3S6"
+	Generator="ctest-3.31.0"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.41.34120/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.41.34120.0"
+	OSName="Windows"
+	Hostname="LAPTOP-PK2HC3S6"
+	OSRelease=" Personal"
+	OSVersion=" (Build 26100)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="4"
+	ModelName="AMD Ryzen 7 7840U w/ Radeon 780M Graphics      "
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="24134"
+	TotalPhysicalMemory="15676"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3293"
+	>
+	<Testing>
+		<StartDateTime>Apr 05 13:21 V[NON-UTF-8-BYTE-0xE4]steuropa, sommartid</StartDateTime>
+		<StartTestTime>1743852094</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 05 13:21 V[NON-UTF-8-BYTE-0xE4]steuropa, sommartid</EndDateTime>
+		<EndTestTime>1743852094</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
