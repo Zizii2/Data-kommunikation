@@ -11,38 +11,7 @@
 int main(int, char**){
     std::cout << "Hello, from chat_room!\n";
 
-    WSADATA was_data;
-    SOCKET server_socket, client_socket;
-    struct sockaddr_in serverAddr, clientAddr;
-
-    
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-WSADATA wsaData;
+    WSADATA wsaData;
     SOCKET serverSocket, clientSocket;
     struct sockaddr_in serverAddr, clientAddr;
     char buffer[BUFFER_SIZE];
@@ -64,34 +33,4 @@ WSADATA wsaData;
     serverAddr.sin_family = AF_INET;
     serverAddr.sin_addr.s_addr = INADDR_ANY;    
     serverAddr.sin_port = htons(PORT);
-
-    if (bind(serverSocket, (struct sockaddr*)&serverAddr, sizeof(serverAddr)) == SOCKET_ERROR) {
-        std::cerr << "Bind failed: " << WSAGetLastError() << std::endl;
-        closesocket(serverSocket);
-        WSACleanup();
-        return 1;
-    }
-
-    // Listen for connections
-    if (listen(serverSocket, SOMAXCONN) == SOCKET_ERROR) {
-        std::cerr << "Listen failed: " << WSAGetLastError() << std::endl;
-        closesocket(serverSocket);
-        WSACleanup();
-        return 1;
-    }
-    while(true){
-        std::cout << "Waiting for connections on port " << PORT << "...\n";
-        
-        // Accept client connection
-        int clientLen = sizeof(clientAddr);
-        clientSocket = accept(serverSocket, (struct sockaddr*)&clientAddr, &clientLen);
-        if (clientSocket == INVALID_SOCKET) {
-            std::cerr << "Accept failed: " << WSAGetLastError() << std::endl;
-            closesocket(serverSocket);
-            WSACleanup();
-            return 1;
-        }
-        break;
-    }
-    std::cout << "Client connected.\n";
-*/
+}
