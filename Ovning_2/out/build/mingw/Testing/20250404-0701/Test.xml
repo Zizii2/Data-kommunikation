@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20250404-0701-Experimental"
+	Name="LAPTOP-PK2HC3S6"
+	Generator="ctest-3.31.0"
+	CompilerName="C:/msys64/ucrt64/bin/g++.exe"
+	CompilerVersion="13.2.0"
+	OSName="Windows"
+	Hostname="LAPTOP-PK2HC3S6"
+	OSRelease=" Personal"
+	OSVersion=" (Build 26100)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="4"
+	ModelName="AMD Ryzen 7 7840U w/ Radeon 780M Graphics      "
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="24134"
+	TotalPhysicalMemory="15676"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3293"
+	>
+	<Testing>
+		<StartDateTime>Apr 04 10:12 V[NON-UTF-8-BYTE-0xE4]steuropa, sommartid</StartDateTime>
+		<StartTestTime>1743754348</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 04 10:12 V[NON-UTF-8-BYTE-0xE4]steuropa, sommartid</EndDateTime>
+		<EndTestTime>1743754348</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

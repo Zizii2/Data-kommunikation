@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "compounds": [
+        {
+            "name": "Run Server and Client",
+            "configurations": ["Run TCP Server", "Run TCP Client"],
+        }
+    ],
+    "configurations": [
+        {
+            "name": "Run TCP Server",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/TCP/server.exe",
+            "cwd": "${workspaceFolder}",
+            "MIMode": "gdb"
+        },
+        {
+            "name": "Run TCP Client",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/TCP/client.exe",
+            "cwd": "${workspaceFolder}",
+            "MIMode": "gdb"
+        }
+    ],
+    "preLaunchTask": "C/C++: cl.exe build active file"
+}

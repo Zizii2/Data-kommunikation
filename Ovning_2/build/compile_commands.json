@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Admin/.vscode/datakommunikation/Ovning_2/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\tcp_client.dir\\client.cpp.obj /FdCMakeFiles\\tcp_client.dir/ /FS -c C:\\Users\\Admin\\.vscode\\datakommunikation\\Ovning_2\\client.cpp",
+  "file": "C:/Users/Admin/.vscode/datakommunikation/Ovning_2/client.cpp",
+  "output": "CMakeFiles/tcp_client.dir/client.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/.vscode/datakommunikation/Ovning_2/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\tcp_server.dir\\server.cpp.obj /FdCMakeFiles\\tcp_server.dir/ /FS -c C:\\Users\\Admin\\.vscode\\datakommunikation\\Ovning_2\\server.cpp",
+  "file": "C:/Users/Admin/.vscode/datakommunikation/Ovning_2/server.cpp",
+  "output": "CMakeFiles/tcp_server.dir/server.cpp.obj"
+}
+]
