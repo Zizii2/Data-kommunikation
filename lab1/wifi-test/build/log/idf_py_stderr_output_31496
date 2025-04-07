@@ -1,0 +1,10 @@
+CMake Error at build/component_requires.temp.cmake:62:
+  Parse error.  Function missing ending ")".  Instead found unterminated
+  string with text "driver;esp_dri".
+Call Stack (most recent call first):
+  C:/Users/Admin/esp/v5.4/esp-idf/tools/cmake/component.cmake:258 (include)
+  C:/Users/Admin/esp/v5.4/esp-idf/tools/cmake/build.cmake:644 (__component_get_requirements)
+  C:/Users/Admin/esp/v5.4/esp-idf/tools/cmake/project.cmake:710 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
