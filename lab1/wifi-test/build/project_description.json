@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "wifi-test",
-    "project_version":    "4451c54-dirty",
+    "project_version":    "6d7ed6e-dirty",
     "project_path":       "C:/repos/Data-kommunikation/lab1/wifi-test",
     "idf_path":           "C:/Users/Admin/esp/v5.4/esp-idf",
     "build_dir":          "C:/repos/Data-kommunikation/lab1/wifi-test/build",
